@@ -9,6 +9,7 @@ Rubido is a little chinese checkers or solitaire game with four difficulties.
 ![screenshot 3](screenshots/screenshot3.png)
 
 ## Vircon32 Game Features:
+- Code adapted to work with Vircon32 console
 - Four difficulties
 - Saves best results in memory card (if inserted)
 - Much faster board part retrieving, it no longer searches the internal list but directly accesses it
