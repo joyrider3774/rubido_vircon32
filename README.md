@@ -1,5 +1,5 @@
 # Rubido Vircon32 Version
-![DownloadCountTotal](https://img.shields.io/github/downloads/joyrider3774/rubido_playdate/total?label=total%20downloads&style=plastic) ![DownloadCountLatest](https://img.shields.io/github/downloads/joyrider3774/rubido_playdate/latest/total?style=plastic) ![LatestVersion](https://img.shields.io/github/v/tag/joyrider3774/rubido_playdate?label=Latest%20version&style=plastic) ![License](https://img.shields.io/github/license/joyrider3774/rubido_playdate?style=plastic)
+![DownloadCountTotal](https://img.shields.io/github/downloads/joyrider3774/rubido_vircon32/total?label=total%20downloads&style=plastic) ![DownloadCountLatest](https://img.shields.io/github/downloads/joyrider3774/rubido_vircon32/latest/total?style=plastic) ![LatestVersion](https://img.shields.io/github/v/tag/joyrider3774/rubido_vircon32?label=Latest%20version&style=plastic) ![License](https://img.shields.io/github/license/joyrider3774/rubido_vircon32?style=plastic)
 
 Rubido is a little chinese checkers or solitaire game with four difficulties.
 
@@ -9,6 +9,7 @@ Rubido is a little chinese checkers or solitaire game with four difficulties.
 ![screenshot 3](screenshots/screenshot3.png)
 
 ## Vircon32 Game Features:
+- Code adapted to work with Vircon32 console
 - Four difficulties
 - Saves best results in memory card (if inserted)
 - Much faster board part retrieving, it no longer searches the internal list but directly accesses it
@@ -51,8 +52,8 @@ Also depending on the difficulty you had chosen you can either jump horizontally
 ### Libs
 Game makes use of DrawPrimitives library from [@vircon32](https://www.github.com/vircon32) provided under 3-Clause BSD License.
 
-### Graphcis 
-The Graphcis are made by me willems davy aka joyrider3774 using gimp, based on the colored graphics i had created for the gp2x version in jasc paint shop pro 7, more than a decade ago.
+### Graphics 
+The Graphics are made by me willems davy aka joyrider3774 using gimp, based on the colored graphics i had created for the gp2x version in jasc paint shop pro 7, more than a decade ago.
 
 ### Sound
 * winner.wav - Fupi - winfantasia.wav from winjingle.zip from https://opengameart.org/content/win-jingle
