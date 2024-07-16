@@ -51,8 +51,8 @@ Also depending on the difficulty you had chosen you can either jump horizontally
 ### Libs
 Game makes use of DrawPrimitives library from [@vircon32](https://www.github.com/vircon32) provided under 3-Clause BSD License.
 
-### Graphcis 
-The Graphcis are made by me willems davy aka joyrider3774 using gimp, based on the colored graphics i had created for the gp2x version in jasc paint shop pro 7, more than a decade ago.
+### Graphics 
+The Graphics are made by me willems davy aka joyrider3774 using gimp, based on the colored graphics i had created for the gp2x version in jasc paint shop pro 7, more than a decade ago.
 
 ### Sound
 * winner.wav - Fupi - winfantasia.wav from winjingle.zip from https://opengameart.org/content/win-jingle
