@@ -352,7 +352,7 @@ void TitleScreen()
 
 void DifficultySelectInit()
 {
-//	CreateGameMenuItems();
+
 }
 
 // Main difficulty select loop
